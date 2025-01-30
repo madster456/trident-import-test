@@ -5,7 +5,7 @@
 ## command, changed default location for backup, and added a comment ##
 ## for reference later.                                              ##
 #######################################################################
-
+# Adding another line to test commit update information.
 #####################################################################
 ### Please set the paths accordingly. In case you don't have all  ###
 ### the listed folders, just keep that line commented out.        ###
